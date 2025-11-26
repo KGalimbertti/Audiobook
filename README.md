@@ -16,4 +16,4 @@ Avançar para o próximo capítulo (botão Próximo).
 
 Retroceder para o capítulo anterior (botão Anterior).
 
-Design Responsivo: (Assumido) Estrutura base para um design de player otimizado para dispositivos móveis (<meta name="viewport" ... />).****
+Design Responsivo: (Assumido) Estrutura base para um design de player otimizado para dispositivos móveis (<meta name="viewport" ... />).
